@@ -17,8 +17,8 @@ I'm a Sophomore Software Engineering Student focused on Java and C development. 
 </p>
 
 📊 Highlighted Project  
-Pokemon Battle Simulator: A comprehensive C project demonstrating dynamic memory management and modular programming.
-Car Repair Tracking System: A Java Swing application using JPA and DAO patterns for workshop management.
+- Pokemon Battle Simulator: A comprehensive C project demonstrating dynamic memory management and modular programming.
+- Car Repair Tracking System: A Java Swing application using JPA and DAO patterns for workshop management.
 
 📫 Connect with Me
 <p align="center">
